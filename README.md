@@ -22,11 +22,6 @@ This repository provides a structured manual testing project, including detailed
 └── Test_Case_Template.xlsx
 
 📄 README.md
-
-yaml
-Copy
-Edit
-
 ---
 
 ## ✅ Key Features
